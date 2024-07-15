@@ -8,7 +8,7 @@ $`reserve = b.ln(e^(supply_x/b)+e^(supply_y/b))`$
 This equation has to hold true for all values of supply_x & sypply_y, and the change in reserve caused by the change in supply_y or supply_x, is paid by the user, where the price becomes:
 
 
-$`price = (reserve_new - reserve_old)/(supply_new - supply_old)`$
+$`price = (reserve - reserve_o)/(supply - supply_o)`$
 
 
 The initial reserve to be filled while creating the market = $`b.ln2`$
