@@ -1,5 +1,8 @@
 # Prediction Market - Logarithmic Bonding Curve on Anchor
 
+
+<img width="620" alt="Screenshot 2024-07-16 at 2 46 46 PM" src="https://github.com/user-attachments/assets/60a4a97c-221b-40b0-85f3-732adbcb3ec1">
+
 ## Intro
 
 $`reserve = b.ln(e^(supply_x/b)+e^(supply_y/b))`$
